@@ -8,6 +8,10 @@ TagManager:
   - Enemy
   - Player Bullet
   - Enemy Bullet
+  - Building
+  - Invisibility
+  - FirstAid
+  - Ammo
   layers:
   - Default
   - TransparentFX
@@ -17,8 +21,8 @@ TagManager:
   - UI
   - Ground
   - Player
-  - 
-  - 
+  - Weapons
+  - Buildings
   - 
   - 
   - 
